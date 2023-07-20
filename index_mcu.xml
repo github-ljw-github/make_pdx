@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CATALOG F-DTD-VERSION="ODX-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="odx-cc.xsd">
+	<SHORT-NAME>PDX1</SHORT-NAME>
+	<ABLOCKS>
+		<ABLOCK>
+			<SHORT-NAME>PrototypeEcu</SHORT-NAME>
+			<CATEGORY>ODX-DATA</CATEGORY>
+			<ADMIN-DATA>
+				<DOC-REVISIONS>
+					<DOC-REVISION>
+						<REVISION-LABEL/>
+						<DATE>2011-03-18T12:52:07</DATE>
+					</DOC-REVISION>
+				</DOC-REVISIONS>
+			</ADMIN-DATA>
+			<FILES>
+				<FILE MIME-TYPE="application/x-asam.odx.odx-f">ODX_Data\adas31Ecu.odx-f</FILE>
+			</FILES>
+		</ABLOCK>
+		<ABLOCK>
+			<SHORT-NAME>ODX_Data\BIN_LB0.bin</SHORT-NAME>
+			<CATEGORY>undefined</CATEGORY>
+			<FILES>
+				<FILE MIME-TYPE="binary/octet-stream">ODX_Data\BIN_LB0.bin</FILE>
+			</FILES>
+		</ABLOCK>
+		<ABLOCK>
+			<SHORT-NAME>ODX_Data\BIN_LB1.bin</SHORT-NAME>
+			<CATEGORY>undefined</CATEGORY>
+			<FILES>
+				<FILE MIME-TYPE="binary/octet-stream">ODX_Data\BIN_LB1.bin</FILE>
+			</FILES>
+		</ABLOCK>
+	</ABLOCKS>
+</CATALOG>
